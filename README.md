@@ -3,7 +3,7 @@
 <!--<img src="https://github.com/Vanshikapandey30/Vanshikapandey30/assets/62590661/25f3bd77-ce0f-4525-bd67-0af2b93f5748" width="400px" height="250px"> -->
  
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/invite/KcxsDRjGft) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/codecrookshanks) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanshika-pandey-b448391a5/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@vanshika30) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/vanshikatech) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@Vanshikapandey30) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-asif-323626193/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/MdAsif207898) 
 
 ## ⚡ About Me
 -  I’ve pursued a B.E in ISE from The Oxford College of Engineering, Bengaluru, Karnataka
