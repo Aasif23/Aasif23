@@ -5,12 +5,20 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-asif-323626193/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/MdAsif207898) 
 
-## ⚡ About Me
--  I’ve pursued a B.E in ISE from The Oxford College of Engineering, Bengaluru, Karnataka
--  🌱 I’m currently learning Kubernetes, Docker, NLP, Machine Learning
--  📫 How to reach me mdasif231020@gmail.com
--  ⚡ Fun fact I think I will change the world.
-  
+## ⚡ About Me  
+
+🎓 **Education:**  
+- B.E in ISE from **The Oxford College of Engineering, Bengaluru, Karnataka**  
+- Currently pursuing **PG in Data Engineering from IIT Jodhpur**  
+
+🛠 **Skills & Learning:**  
+- **Technologies:** Kubernetes, Docker  
+- **AI & ML:** NLP, Machine Learning  
+- **Data Engineering:** Integration, ETL, Data Lake, Modeling  
+
+📫 **How to reach me:** mdasif231020@gmail.com  
+⚡ **Fun fact:** I think I will change the world.  
+
 <img align="right" alt="PNG" src="https://github.com/Vanshikapandey30/Vanshikapandey30/blob/main/assets/img/cat.png" width="200" height="200" />
 
 # 💻 Tech Stack:
